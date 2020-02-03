@@ -40,3 +40,4 @@ def play(board)
 while !position_taken?(board, index)
   turn(board)
 end
+end
