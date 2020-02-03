@@ -40,3 +40,4 @@ def play(board)
   while move(board, index, current_player = "X")
   turn(board)
 end
+end
